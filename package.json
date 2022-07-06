@@ -1,8 +1,6 @@
 {
   "name": "@dotmcdh/next-pagination",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/dotmcdh"
-  },
+
   "version": "1.1.0",
   "description": "",
   "scripts": {
